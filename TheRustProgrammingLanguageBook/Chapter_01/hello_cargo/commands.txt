@@ -1,0 +1,4 @@
+cargo build --> build binary 
+cargo run --> run the binary 
+cargo check --> dont compile see if it will compile 
+cargo build --release --> build a release 
