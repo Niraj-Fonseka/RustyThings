@@ -18,3 +18,8 @@
     cargo run
     ```
     - if the build was fast or did not build completely that means the the files haven't been changed since the last build
+
+* To build a release binary 
+    ```
+    cargo build --release 
+    ```
