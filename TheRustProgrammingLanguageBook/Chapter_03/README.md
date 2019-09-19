@@ -51,3 +51,5 @@
     }
 
 * Adding a semicologo into an expression makes it a statement
+
+* Rust will not try to convert non-booean types to a boolean
